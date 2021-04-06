@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,600&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    background: url(fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100rem 50rem; 
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    font-weight: normal ;
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+
+.countdown-container{
+    display: flex;
+}
+
+
+.big-text {
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+
+.countdown-e1 {
+    text-align: center;
+}
+
+
+.countdown-e1 span{
+    font-size: 1rem;
+}
+
+
