@@ -1,0 +1,45 @@
+
+
+
+body {
+    background:  hsl(210, 36%, 96%);
+    color: hsl(211, 39%, 23%);
+    line-height: 1.5;
+    font-size: 0.875rem;
+  }
+
+
+ 
+
+
+  h1{
+
+    margin-top: 5rem;
+      text-align: center;
+      font-size: 5rem;
+  }
+
+  h2{
+      text-align: center;
+      font-size: 25px;
+
+  }
+
+
+
+.btn {
+    color: #222;
+    font-size: 0.875rem;
+    border: 2px solid #222;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    margin-left: 25rem;
+    margin-top: 5rem;
+}
+
+
+
+.btn:hover {
+    color: #fff;
+    background: #222;
+  }
