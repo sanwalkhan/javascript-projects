@@ -13,4 +13,8 @@
 
 6# countdown timer
 
-# stringlengthcalculator
+7#stringlengthcalculator
+
+8#simple counterr
+
+9# random quote generator
