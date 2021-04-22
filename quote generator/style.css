@@ -1,0 +1,50 @@
+body {
+  background:  hsl(210, 36%, 96%);
+  color: hsl(209, 61%, 16%);
+  
+}
+
+
+  h1{
+    color: #000;
+    text-align: center;
+    margin: 4rem;
+    font-size: 44px;
+}
+
+
+
+#quote{
+    height: 250px;
+    width: 600px;
+    background: #fff;
+    color:hsl(210, 22%, 49%);
+    border-radius: 0.25rem;
+    box-shadow:  0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: auto;
+}
+
+
+p {
+    margin-bottom: 1.25rem;
+    color: var(--clr-grey-5);
+  }
+
+
+  .btn {
+    color: #222;
+    font-size: 0.875rem;
+    border: 2px solid #222;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    margin-left: 39rem;
+    margin-top: 5rem;
+}
+
+
+
+.btn:hover {
+    color: #fff;
+    background: rgb(46, 42, 42);
+  }
