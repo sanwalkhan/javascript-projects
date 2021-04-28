@@ -19,3 +19,6 @@
 
 9# random quote generator
 http://code_generator.surge.sh/
+
+10# Tip Calculator
+http://tip-calculator.surge.sh/
