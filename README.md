@@ -24,7 +24,7 @@ http://code_generator.surge.sh/
 http://tip-calculator.surge.sh/
 
 11#BMI-CALCULATOR
-bmicalculator.surge.sh
+http://bmicalculator.surge.sh/
 
 12#=weightconverter
 http://weight-converter-.surge.sh
