@@ -1,0 +1,58 @@
+body {
+    background:  hsl(210, 36%, 96%);
+    color: hsl(209, 61%, 16%);
+    
+  }
+
+
+
+h1{
+    margin: 7rem auto 0 auto;
+    text-align: center;
+    color: black;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem auto 0 auto;
+    width: 20rem;
+    height: 20rem;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow:  0 5px 15px rgba(0, 0, 0, 0.1)
+    
+
+}
+
+
+#btn{
+    color: #222;
+    font-size: 0.875rem;
+    border: 2px solid #222;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    width: 8rem;
+    margin:10px auto 0 auto;
+}
+
+#btn:hover {
+    color: #fff;
+    background: rgb(46, 42, 42);
+  }
+
+
+#weight, #height{
+    width: 14rem;
+    margin:6px auto 0 auto;
+}
+
+
+
+.weight-label , .height-label, .result{
+    margin-top: 10px;
+    font-size: larger;
+    font: bold;
+    text-align: center;
+}
