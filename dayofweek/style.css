@@ -1,0 +1,39 @@
+body {
+    background:  hsl(210, 36%, 96%);
+    color: hsl(209, 61%, 16%);
+    
+  }
+
+
+
+.title{
+    margin: 7rem auto 0 auto;
+    text-align: center;
+    color: black;
+}
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem auto 0 auto;
+    width: 20rem;
+    height: 20rem;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow:  0 5px 15px rgba(0, 0, 0, 0.1)
+    
+
+}
+
+
+
+
+
+
+#day, #date{
+    margin: auto;
+    font-size: larger;
+    font: bold;
+    text-align: center;
+}
