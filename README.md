@@ -31,3 +31,6 @@ http://weight-converter-.surge.sh
 
 13#heightconverter
 http://height-converter-.surge.sh/
+
+14#showdayofweek
+http://dayandtimeofweek.surge.sh/
